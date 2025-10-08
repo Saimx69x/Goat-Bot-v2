@@ -61,15 +61,15 @@
   "timeZone": "Asia/Dhaka",
     "credentials": {
     "gmailAccount": {
-      "email": "saimx69x@gmail.com",
-      "clientId": "25451808751-po0oj8l9a07ahhboqqaqb0hpql2s49p5.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04eNLVzYAUTgfCgYIARAAGAQSNwF-L9IrNFnM-nsNG7wjHxvUC4gCpPkrMp98yP-pyCPTK2qLXLgCZ7Q_j65vkM7eHZVcxJCyCYc",
+      "email": "maybesaim12@gmail.com",
+      "clientId": "100897454411-5r8hk9opvdijmogm98ksttg4asvfs3u6.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04CwY3A993tGWCgYIARAAGAQSNwF-L9IrEMdVj25IWIOrpT0HX7Lo4YXx6ce0JP-C3GjKoyWSFb_-f_N3oHRL15ZwrsQ8TpBsjmI",
       "apiKey": ""
     },
     "gRecaptcha": {
-      "siteKey": "6Le_o9srAAAAAEcmpEqz8OV7S8EG5SsfsbMlJvZp",
-      "secretKey": "6Le_o9srAAAAAKMMdFUM3-c3Aq7OHE6-jSAzkU4z"
+      "siteKey": "6LdZTuIrAAAAAEJ9LXfW4a0V97vUPe31lp95DKvA",
+      "secretKey": "6LdZTuIrAAAAAEEK-qSFLsTkK_RJQnL4yTIhcJcL"
     }
   },
   "dashBoard": {
